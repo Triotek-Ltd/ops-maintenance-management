@@ -1,0 +1,58 @@
+[
+  {
+    "module_code": "ops10_2",
+    "module_label": "OPS 10.2 - Corrective Maintenance Request - Logs breakdown; consists of issue report.",
+    "module_title": "Corrective Maintenance Request - Logs breakdown; consists of issue report.",
+    "module_slug": "corrective_maintenance_request_logs_breakdown_consists_of_issue_report",
+    "app_code": "ops10",
+    "app_label": "OPS 10 - Maintenance Management",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops10_5",
+    "module_label": "OPS 10.5 - Downtime Tracking - Records outage duration; consists of time logs.",
+    "module_title": "Downtime Tracking - Records outage duration; consists of time logs.",
+    "module_slug": "downtime_tracking_records_outage_duration_consists_of_time_logs",
+    "app_code": "ops10",
+    "app_label": "OPS 10 - Maintenance Management",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops10_3",
+    "module_label": "OPS 10.3 - Maintenance Work Order - Authorizes repair; consists of scope and resource allocation.",
+    "module_title": "Maintenance Work Order - Authorizes repair; consists of scope and resource allocation.",
+    "module_slug": "maintenance_work_order_authorizes_repair_consists_of_scope_and_resource_allocation",
+    "app_code": "ops10",
+    "app_label": "OPS 10 - Maintenance Management",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_slug": "ops10_1"
+  },
+  {
+    "module_slug": "ops10_3"
+  },
+  {
+    "module_code": "ops10_1",
+    "module_label": "OPS 10.1 - Preventive Maintenance Scheduling - Plans servicing; consists of interval configuration.",
+    "module_title": "Preventive Maintenance Scheduling - Plans servicing; consists of interval configuration.",
+    "module_slug": "preventive_maintenance_scheduling_plans_servicing_consists_of_interval_configuration",
+    "app_code": "ops10",
+    "app_label": "OPS 10 - Maintenance Management",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops10_4",
+    "module_label": "OPS 10.4 - Spare Parts Issuance - Issues parts; consists of stock deduction.",
+    "module_title": "Spare Parts Issuance - Issues parts; consists of stock deduction.",
+    "module_slug": "spare_parts_issuance_issues_parts_consists_of_stock_deduction",
+    "app_code": "ops10",
+    "app_label": "OPS 10 - Maintenance Management",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
